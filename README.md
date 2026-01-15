@@ -1,6 +1,4 @@
-## Hi there 👋
-
-# Hi, I'm [Your Name] 👋  
+## Hi there 👋  
 
 I'm a **Systems Analysis and Development (ADS) student** based in Brazil, currently pursuing my degree while actively building practical skills in software development.  
 Even though I'm still in college, I'm passionate about coding and eager to gain real-world experience through projects and collaborations.
